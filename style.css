@@ -1,0 +1,58 @@
+*{
+	font-family: "Roboto",sans-serif;
+
+}
+
+.navbar-brand{
+	margin-left: 80px;
+}
+
+.navbar-nav{
+	margin-right: 100px;
+}
+
+.logo{
+	width:	60px;
+	
+}
+
+.hero{
+	width: 100%;
+}
+
+.hero-text h1{
+	padding: 30px;
+	margin-left: 0px;
+	font-weight: bold;
+}
+
+.hero-text p{
+	padding: 50px;
+	font-weight: 600px;
+}
+
+@media only screen and (max-width: 700px){
+
+	.navbar-brand{
+		margin-left: 0px;
+	}
+
+	.navbar-nav{
+		margin-right: 0px;
+	}
+
+	.hero-text h1{
+	padding: 10px;
+	}
+
+	.hero-text{
+		text-align: left;
+	}
+
+
+	.hero-text p{
+		padding: 10px;
+		text-align: left;
+	}
+
+}
