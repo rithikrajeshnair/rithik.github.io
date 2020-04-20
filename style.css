@@ -28,7 +28,7 @@
 
 .hero-text p{
 	padding: 50px;
-	font-weight: 600px;
+	font-weight: bold;
 }
 
 @media only screen and (max-width: 700px){
